@@ -2096,8 +2096,8 @@ Tilemap:
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Origin: {x: -7, y: 0, z: 0}
-  m_Size: {x: 63, y: 16, z: 1}
+  m_Origin: {x: -16, y: -1, z: 0}
+  m_Size: {x: 72, y: 17, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
   m_TileOrientation: 0
   m_TileOrientationMatrix:
@@ -2671,6 +2671,7 @@ GameObject:
   - component: {fileID: 1839476599}
   - component: {fileID: 1839476598}
   - component: {fileID: 1839476600}
+  - component: {fileID: 1839476601}
   m_Layer: 0
   m_Name: 6_Parpia_CharacterComplete_0
   m_TagString: Untagged
@@ -2826,6 +2827,28 @@ CapsuleCollider2D:
   m_Offset: {x: -0.09, y: 0}
   m_Size: {x: 0.37, y: 1}
   m_Direction: 0
+--- !u!95 &1839476601
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1839476594}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4c45238c2ab15f0428b447ac4040644e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
