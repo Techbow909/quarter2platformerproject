@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 035f5d1f14ea0b84c93a63076259922a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5160224027972199243
+    second: birddown_0
+  - first:
+      213: -6835973660132131111
+    second: birddown_1
+  - first:
+      213: -3821471623456912087
+    second: birddown_2
+  - first:
+      213: -4396699322350708277
+    second: birddown_3
+  - first:
+      213: 5059183504834191249
+    second: birddown_4
+  - first:
+      213: -8111160407551167160
+    second: birddown_5
+  - first:
+      213: -1099302908666080042
+    second: birddown_6
+  - first:
+      213: 1598734611770718334
+    second: birddown_7
+  - first:
+      213: -2172363989670893425
+    second: birddown_8
+  - first:
+      213: -2095430340114278611
+    second: birddown_9
+  - first:
+      213: 2070748036725149610
+    second: birddown_10
+  - first:
+      213: 6598635501937019366
+    second: birddown_11
+  - first:
+      213: -8072907521828122050
+    second: birddown_12
+  - first:
+      213: 8562023244667307082
+    second: birddown_13
+  - first:
+      213: -2533816531582378777
+    second: birddown_14
+  - first:
+      213: 8635965418136442736
+    second: birddown_15
+  - first:
+      213: -4131437058462835531
+    second: birddown_16
+  - first:
+      213: -8906752609710176253
+    second: birddown_17
+  - first:
+      213: -9080576551986908070
+    second: birddown_18
+  - first:
+      213: -1333676358585562689
+    second: birddown_19
+  - first:
+      213: -7326059549062539148
+    second: birddown_20
+  - first:
+      213: -1679601875945765650
+    second: birddown_21
+  - first:
+      213: 8099592115506115712
+    second: birddown_22
+  - first:
+      213: -5141712515485290809
+    second: birddown_23
+  - first:
+      213: -9116291744583467760
+    second: birddown_24
+  - first:
+      213: -7608701184033587759
+    second: birddown_25
+  - first:
+      213: -3791247145419335209
+    second: birddown_26
+  - first:
+      213: -7206722371770517972
+    second: birddown_27
+  - first:
+      213: 6006412821924198811
+    second: birddown_28
+  - first:
+      213: 2408977243543385123
+    second: birddown_29
+  - first:
+      213: 3699878437282959865
+    second: birddown_30
+  - first:
+      213: -2572655528878264927
+    second: birddown_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: birddown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1579
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ed83a7f1a301443afa7b410d592d3a
+      internalID: 905003844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cdf28f95b6ac6e64ebc714afe854c094
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      birddown_0: 905003844
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

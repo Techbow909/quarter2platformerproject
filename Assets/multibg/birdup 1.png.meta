@@ -1,0 +1,882 @@
+fileFormatVersion: 2
+guid: d2aaac86c761e724a9a2ebf04877c136
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5484407422899050373
+    second: birdup 1_0
+  - first:
+      213: -7824248629624547984
+    second: birdup 1_1
+  - first:
+      213: -6508755778245020919
+    second: birdup 1_2
+  - first:
+      213: 2791400249990983229
+    second: birdup 1_3
+  - first:
+      213: 7978130574534581705
+    second: birdup 1_4
+  - first:
+      213: -1241003066169820123
+    second: birdup 1_5
+  - first:
+      213: -3399700266165193874
+    second: birdup 1_6
+  - first:
+      213: -1900415974197623621
+    second: birdup 1_7
+  - first:
+      213: -8440450411127266807
+    second: birdup 1_8
+  - first:
+      213: 7391977377435618050
+    second: birdup 1_9
+  - first:
+      213: -5458559243081639309
+    second: birdup 1_10
+  - first:
+      213: 5194965245501422436
+    second: birdup 1_11
+  - first:
+      213: 3276569254413063244
+    second: birdup 1_12
+  - first:
+      213: -2716018357731888752
+    second: birdup 1_13
+  - first:
+      213: -5678480676777678728
+    second: birdup 1_14
+  - first:
+      213: -1374559395947210404
+    second: birdup 1_15
+  - first:
+      213: -7305409112096964918
+    second: birdup 1_16
+  - first:
+      213: 9115409644946482666
+    second: birdup 1_17
+  - first:
+      213: -4024429986436967667
+    second: birdup 1_18
+  - first:
+      213: -5182551946109232801
+    second: birdup 1_19
+  - first:
+      213: -5792815871684630993
+    second: birdup 1_20
+  - first:
+      213: 8765155440173962218
+    second: birdup 1_21
+  - first:
+      213: 1565410361654205894
+    second: birdup 1_22
+  - first:
+      213: 4454214585364626932
+    second: birdup 1_23
+  - first:
+      213: -2529198767619234795
+    second: birdup 1_24
+  - first:
+      213: 4432526009821177295
+    second: birdup 1_25
+  - first:
+      213: -7796733576023276302
+    second: birdup 1_26
+  - first:
+      213: -7156022743415530226
+    second: birdup 1_27
+  - first:
+      213: -1797878573798562789
+    second: birdup 1_28
+  - first:
+      213: -8027427172917943683
+    second: birdup 1_29
+  - first:
+      213: 5321808781169727536
+    second: birdup 1_30
+  - first:
+      213: -4392167581510766220
+    second: birdup 1_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: birdup 1_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 431
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78269aa18873e3b0800000000000000
+      internalID: -5484407422899050373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_1
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 452
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07554e4735faa6390800000000000000
+      internalID: -7824248629624547984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_2
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 424
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9033fe3ca114ca5a0800000000000000
+      internalID: -6508755778245020919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 403
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e26a6ecbb0db620800000000000000
+      internalID: 2791400249990983229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_4
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 378
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd11d2dc7308be60800000000000000
+      internalID: 7978130574534581705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 341
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cf6c3594217cee0800000000000000
+      internalID: -1241003066169820123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 357
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e633c6cce96d1d0d0800000000000000
+      internalID: -3399700266165193874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_7
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 362
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb409748dbd50a5e0800000000000000
+      internalID: -1900415974197623621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_8
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 344
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902a57c021f7dda80800000000000000
+      internalID: -8440450411127266807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 304
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b06c9a244959660800000000000000
+      internalID: 7391977377435618050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_10
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 322
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a91b20a4d4f34b0800000000000000
+      internalID: -5458559243081639309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_11
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 313
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bbc9edd59381840800000000000000
+      internalID: 5194965245501422436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_12
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 326
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44d14b7066b87d20800000000000000
+      internalID: 3276569254413063244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 292
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09173f791b3ce4ad0800000000000000
+      internalID: -2716018357731888752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_14
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 272
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8782fbc09ebf131b0800000000000000
+      internalID: -5678480676777678728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_15
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 251
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5914e913859cece0800000000000000
+      internalID: -1374559395947210404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 178
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acefe864e19fd9a90800000000000000
+      internalID: -7305409112096964918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_17
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 200
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5643dc6c0708e70800000000000000
+      internalID: 9115409644946482666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_18
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 172
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d039efaef3a5628c0800000000000000
+      internalID: -4024429986436967667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 150
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59562e9670e318b0800000000000000
+      internalID: -5182551946109232801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_20
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 126
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f262ef608a8cb9fa0800000000000000
+      internalID: -5792815871684630993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3d6acde6614a970800000000000000
+      internalID: 8765155440173962218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 105
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd5d161e6479b510800000000000000
+      internalID: 1565410361654205894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_23
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 110
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdb502e09c80dd30800000000000000
+      internalID: 4454214585364626932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_24
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 91
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51423b10f1b76ecd0800000000000000
+      internalID: -2529198767619234795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_25
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 52
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc52211ebee738d30800000000000000
+      internalID: 4432526009821177295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_26
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 70
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f485c81f107cc390800000000000000
+      internalID: -7796733576023276302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_27
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 61
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dd916aa33b0bc90800000000000000
+      internalID: -7156022743415530226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_28
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 73
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14637376f6ac07e0800000000000000
+      internalID: -1797878573798562789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 39
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7268e17489d89090800000000000000
+      internalID: -8027427172917943683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_30
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 20
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0381d2ce3ecdad940800000000000000
+      internalID: 5321808781169727536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdup 1_31
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 0
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4717016fad2eb03c0800000000000000
+      internalID: -4392167581510766220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
