@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - coin
+  - portal
+  - Ending
+  - Enemy
+  - DeathZone
   layers:
   - Default
   - TransparentFX
